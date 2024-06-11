@@ -1,0 +1,10 @@
+{
+    "generation":100,
+    "population_size":50,
+    "offsprint_amount": 25,
+    "risk_free_rate": 0.05,
+    "reborn_rate": 0.1,
+    "depth":3,
+    "record":"exp2_simulate",
+    "type":"non_binary"
+}
